@@ -20,6 +20,9 @@ DEFAULT_FEEDS = {
     "spamhaus_drop": "https://www.spamhaus.org/drop/drop.txt",
     "spamhaus_edrop": "https://www.spamhaus.org/drop/edrop.txt",
     "firehol_level1": "https://iplists.firehol.org/files/firehol_level1.netset",
+    "feodo_tracker": "https://feodotracker.abuse.ch/downloads/ipblocklist.txt",
+    "emerging_threats": "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt",
+    "blocklist_de": "https://lists.blocklist.de/lists/all.txt",
 }
 
 COMMENT_PREFIXES = ("#", ";", "//")
